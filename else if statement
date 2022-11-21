@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+printf("Reg no: RA2211042010008\n");
+int time = 22;
+if (time < 10)
+{
+  printf("Good morning.");
+}
+else if (time < 20)
+{
+  printf("Good morning.");
+} 
+else 
+{
+  printf("Good evening.");
+}
+}
