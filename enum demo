@@ -1,0 +1,6 @@
+#include <stdio.h>-
+ void main() {
+    enum day {sunday, monday, tuesday, wednesday, thursday, friday, saturday}; 4
+    enum day-d-=- thursday;¬
+    printf("The day number stored in d is %d\n",d);
+    }
